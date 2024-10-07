@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "@grpc/grpc-js": "^1.12.0",
+    "bcryptjs": "^2.4.3",
+    "express": "^4.21.0",
+    "firebase": "10.14.0",
+    "jsonwebtoken": "^9.0.2",
+    "uuid": "^10.0.0"
+  },
+  "devDependencies": {
+    "@types/uuid": "^10.0.0"
+  }
+}
